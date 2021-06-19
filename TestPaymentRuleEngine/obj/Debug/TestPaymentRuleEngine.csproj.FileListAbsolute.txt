@@ -1,0 +1,17 @@
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\bin\Debug\TestPaymentRuleEngine.dll
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\bin\Debug\TestPaymentRuleEngine.pdb
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\bin\Debug\PaymentRuleEngine.exe
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\bin\Debug\PaymentRuleEngine.pdb
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\bin\Debug\PaymentRuleEngine.exe.config
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\obj\Debug\TestPaymentRuleEngine.csprojAssemblyReference.cache
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\obj\Debug\TestPaymentRuleEngine.csproj.CoreCompileInputs.cache
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\obj\Debug\TestPaymentRuleEngine.csproj.CopyComplete
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\obj\Debug\TestPaymentRuleEngine.dll
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\TestPaymentRuleEngine\obj\Debug\TestPaymentRuleEngine.pdb

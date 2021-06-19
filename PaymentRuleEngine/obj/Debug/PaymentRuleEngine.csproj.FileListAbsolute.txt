@@ -1,0 +1,6 @@
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\PaymentRuleEngine\obj\Debug\PaymentRuleEngine.csproj.CoreCompileInputs.cache
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\PaymentRuleEngine\bin\Debug\PaymentRuleEngine.exe.config
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\PaymentRuleEngine\bin\Debug\PaymentRuleEngine.exe
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\PaymentRuleEngine\bin\Debug\PaymentRuleEngine.pdb
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\PaymentRuleEngine\obj\Debug\PaymentRuleEngine.exe
+C:\Users\parshwa.shah\source\repos\PaymentRuleEngine\PaymentRuleEngine\obj\Debug\PaymentRuleEngine.pdb
